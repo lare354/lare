@@ -2,6 +2,28 @@
 # wm independent hotkeys
 #
 
+# toggle picom
+super + alt + p
+	killall picom
+super + p
+	picom
+
+# brightness
+ctrl + shift + KP_Add
+	bash /home/lare/bin/bright +
+ctrl + shift + KP_Subtract
+	bash /home/lare/bin/bright -
+
+# mic control
+ctrl + shift + Up 
+	pactl set-source-volume @DEFAULT_SOURCE@ +10%
+ctrl + shift + Down
+	pactl set-source-volume @DEFAULT_SOURCE@ -10%
+ctrl + shift + Right 
+	pactl set-source-volume @DEFAULT_SOURCE@ 100%
+ctrl + shift + Left
+	pactl set-source-volume @DEFAULT_SOURCE@ 400%
+
 # Spotify controls
 XF86AudioNext
 	spt pb --next
