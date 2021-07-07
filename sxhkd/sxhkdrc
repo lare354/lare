@@ -15,14 +15,21 @@ ctrl + shift + KP_Subtract
 	bash /home/lare/bin/bright -
 
 # mic control
-ctrl + shift + Up 
-	pactl set-source-volume @DEFAULT_SOURCE@ +10%
-ctrl + shift + Down
-	pactl set-source-volume @DEFAULT_SOURCE@ -10%
-ctrl + shift + Right 
-	pactl set-source-volume @DEFAULT_SOURCE@ 100%
-ctrl + shift + Left
-	pactl set-source-volume @DEFAULT_SOURCE@ 400%
+#ctrl + shift + Up 
+#	pactl set-source-volume @DEFAULT_SOURCE@ +10%
+#ctrl + shift + Down
+#	pactl set-source-volume @DEFAULT_SOURCE@ -10%
+#ctrl + shift + Right 
+#	pactl set-source-volume @DEFAULT_SOURCE@ 100%
+#ctrl + shift + Left
+#	pactl set-source-volume @DEFAULT_SOURCE@ 400%
+
+#ctrl + shift {Up,Down,Right,Left}
+#	pactl set-source-volume @DEFAULT_SOURCE@ {+10%,-10%,100%,400%}
+
+ctrl + shift + {_,alt} {Up, Down, Right, Left}
+    pactl {set-source-volume @DEFAULT_SOURCE@,set-sink-volume @DEFAULT_SINK@} {+10%,-10%,100%,400%}
+
 
 # Spotify controls
 XF86AudioNext
