@@ -1,2 +1,1 @@
-# lare
-le dotfiles au Lare
+# le dotfiles au Lare
