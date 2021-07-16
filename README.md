@@ -1,2 +1,2 @@
 # lare
-hoho
+le dotfiles au Lare
