@@ -37,7 +37,7 @@ super + v
 
 # program launcher
 super + space
-	rofi -combi-modi window,drun,ssh -theme DarkBlue -show combi
+	rofi -combi-modi drun,ssh -theme DarkBlue -show combi
 
 #screenshot flameshot
 super + shift + s

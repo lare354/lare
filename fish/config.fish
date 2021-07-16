@@ -5,4 +5,6 @@ function fish_prompt
     alias ls='exa'
     alias dc='cd'
     alias sl='exa'
+    alias bright="bash /home/lare/bin/bright"
+    alias weather="curl 'wttr.in/Kramfors?format=4'"
 end
