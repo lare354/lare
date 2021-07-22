@@ -1,0 +1,5 @@
+function weather
+
+curl 'wttr.in/Kramfors?format=4'
+
+end

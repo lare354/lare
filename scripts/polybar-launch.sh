@@ -23,3 +23,4 @@ fi
 echo "Bars launched..."
 
 dunst
+[ -f "/usr/bin/openrgb" ] && /usr/bin/openrgb -p pink.orp

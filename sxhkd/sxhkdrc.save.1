@@ -10,9 +10,9 @@ super + p
 
 # brightness
 ctrl + shift + KP_Add
-	bash /home/lare/.config/scripts/bright +
+	bash /home/lare/bin/bright +
 ctrl + shift + KP_Subtract
-	bash /home/lare/.config/scripts/bright -
+	bash /home/lare/bin/bright -
 
 # mic control
 ctrl + shift + {_,alt} {Up, Down, Right, Left}
@@ -26,10 +26,8 @@ XF86AudioPrev
 	spt pb --previous
 XF86AudioPlay
 	spt pb --toggle
-XF86AudioLowerVolume
-	/home/lare/.config/scripts/spotvol.sh -
-XF86AudioRaiseVolume
-	/home/lare/.config/scripts/spotvol.sh +
+
+
 
 # terminal emulator
 super + Return

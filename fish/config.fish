@@ -7,4 +7,6 @@ function fish_prompt
     alias sl='exa'
     alias bright="bash /home/lare/bin/bright"
     alias weather="curl 'wttr.in/Kramfors?format=4'"
+    alias umbra='ssh umbra@172.27.123.23 -p 22'
+    alias midnight='ssh midnight@172.27.162.2 -p 22'
 end
