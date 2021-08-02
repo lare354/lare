@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CurrVol=$( spt list -d | /home/lare/.config/scripts/numbers )
+CurrVol=$( spt list -d | head -n 1 | /home/lare/.config/scripts/numbers )
 STEP=5
 NewVol=0
 
