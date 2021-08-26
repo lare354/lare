@@ -1,0 +1,27 @@
+notify = true
+bitrate = 320
+shuffle = true
+album_column = true
+[keybindings]
+"n" = "next"
+"p" = "previous"
+"Shift+k" = "volup 5"
+"Shift+j" = "voldown 5"
+#[theme]
+#background = "#000000"
+#primary = "#FFFFFF"
+#secondary = "#55009F"
+#title = "#A81ED7"
+#playing = "#1ED760"
+#playing_selected = "#A81ED7"
+#playing_bg = "#181818"
+#highlight = "#1DB954"
+#highlight_bg = "#000000"
+#error = "#FFE4E4"
+#error_bg = "#A50000"
+#statusbar = "#000000"
+#statusbar_progress = "#A81ED7"
+#statusbar_bg = "#A81ED7"
+#cmdline = "#7A9885"
+#cmdline_bg = "#444444"
+
