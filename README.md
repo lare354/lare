@@ -10,5 +10,4 @@ My setup:
 &nbsp;&nbsp;&nbsp;&nbsp;AUR helper: YAY\
 &nbsp;&nbsp;&nbsp;&nbsp;Kernel: Zen\
 &nbsp;&nbsp;&nbsp;&nbsp;Nvidia driver: Performance\
-&nbsp;&nbsp;&nbsp;&nbsp;Status bar: polybar\
-    
+&nbsp;&nbsp;&nbsp;&nbsp;Status bar: polybar
