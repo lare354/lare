@@ -1,14 +1,14 @@
 # le dotfiles au Lare
 My setup:  
-    OS: Arch Linux\
-    Display manager: lightdm\
-    Desktop env: Plasma\
-    Window manager: bspwm\
-    Terminal: Alacritty/Darktile\
-    Shell: Fish\
-    Boot loader: GRUB\
-    AUR helper: YAY\
-    Kernel: Zen\
-    Nvidia driver: Performance\
-    Status bar: polybar\
+&nbsp;&nbsp;&nbsp;&nbsp;OS: Arch Linux\
+&nbsp;&nbsp;&nbsp;&nbsp;Display manager: lightdm\
+&nbsp;&nbsp;&nbsp;&nbsp;Desktop env: Plasma\
+&nbsp;&nbsp;&nbsp;&nbsp;Window manager: bspwm\
+&nbsp;&nbsp;&nbsp;&nbsp;Terminal: Alacritty/Darktile\
+&nbsp;&nbsp;&nbsp;&nbsp;Shell: Fish\
+&nbsp;&nbsp;&nbsp;&nbsp;Boot loader: GRUB\
+&nbsp;&nbsp;&nbsp;&nbsp;AUR helper: YAY\
+&nbsp;&nbsp;&nbsp;&nbsp;Kernel: Zen\
+&nbsp;&nbsp;&nbsp;&nbsp;Nvidia driver: Performance\
+&nbsp;&nbsp;&nbsp;&nbsp;Status bar: polybar\
     
