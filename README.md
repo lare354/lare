@@ -4,7 +4,7 @@ My setup:
 &nbsp;&nbsp;&nbsp;&nbsp;Display manager: lightdm\
 &nbsp;&nbsp;&nbsp;&nbsp;Desktop env: Plasma\
 &nbsp;&nbsp;&nbsp;&nbsp;Window manager: bspwm\
-&nbsp;&nbsp;&nbsp;&nbsp;Terminal: Alacritty/Darktile\
+&nbsp;&nbsp;&nbsp;&nbsp;Terminal: Alacritty\
 &nbsp;&nbsp;&nbsp;&nbsp;Shell: Fish\
 &nbsp;&nbsp;&nbsp;&nbsp;Boot loader: GRUB\
 &nbsp;&nbsp;&nbsp;&nbsp;AUR helper: YAY\
