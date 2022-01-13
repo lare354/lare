@@ -4,6 +4,10 @@ bitrate = 320
 shuffle = true
 
 [keybindings]
+"o" = "open selected"
+"Shift+o" = "open selected"
+"i" = "open current"
+"Shift+i" = "open current"
 "n" = "next"
 "Shift+n" = "next"
 "p" = "previous"
